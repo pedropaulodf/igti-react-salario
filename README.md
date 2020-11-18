@@ -1,3 +1,5 @@
+<img src="public/img.png" >
+
 ### Trabalho Prático do módulo 3
 Meu primeiro projeto em react.js
 
@@ -8,7 +10,3 @@ Criar uma página que faz o cálculo do INSS baseado no salário dela. [salary.j
 
 ### Tecnologias usadas
 Javascript, React.js, Node.js e Materialize.css
-
-### Projeto
-
-<img src="public/img.png" >
